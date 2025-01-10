@@ -4,28 +4,28 @@ main:
     url: "/#about-me"
 
   - title: "Education"
-    url: "/#education"
+    url: "/#-education"
 
   - title: "News"
-    url: "/#news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-publications"
 
   - title: "Workshop"
-    url: "/#workshop"
+    url: "/#-workshop"
 
   - title: "Research Experience"
-    url: "/#research-experience"
+    url: "/#-research-experience"
 
   - title: "Internships"
-    url: "/#internships"
+    url: "/#-internships"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Skills"
-    url: "/#skills"
+    url: "/#-skills"
 
   - title: "CV"
     url: "/cv/"
