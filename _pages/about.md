@@ -60,11 +60,13 @@ My research interests include computational chemistry, materials science, and ma
 # 💻 Internships
 
 - _2024.09 - Present_, [Fujitsu](https://www.fujitsu.com/), Japan
+  **Department:** Computing Research Institute
 
   - Participating in research projects on molecular dynamics simulations and material discovery.
   - Leveraging neural network potentials to accelerate simulations and conducting computational analyses.
 
 - _2024.07 - 2024.08_, [Rakuten](https://www.rakuten.com/), Japan
+  **Department:** Communications & Marketing (CM) Division
   - Contributed to the development of a disaster volunteer web application during a summer internship.
   - Developed backend functionality using Python (FastAPI) and managed SQLite databases.
   - Integrated APIs to enable communication between government, volunteers, and hotels.
@@ -103,4 +105,3 @@ My research interests include computational chemistry, materials science, and ma
 - **English**: Fluent
 - **Japanese**: Business-level
 - **Chinese**: Native
--
