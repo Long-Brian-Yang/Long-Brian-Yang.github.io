@@ -76,8 +76,9 @@ My research interests include computational chemistry, materials science, and ma
 
 - _2024.11_, **Fujitsu Research Internship Certification**, successfully achieved certification for outstanding performance in the internship program.
 - _2024.05 - Present_, **Research Assistant**, Tokyo Institute of Technology
-  - Contributing to a JST-funded project on molecular dynamics simulations and neural network potentials.
+  - Contributing to a project on molecular dynamics simulations and neural network potentials.
 - _2021.10_, **University First-Class Scholarship**, awarded for outstanding academic performance during undergraduate studies at China University of Petroleum.
+- _2020.10_, **University First-Class Scholarship**, awarded for outstanding academic performance during undergraduate studies at China University of Petroleum.
 - _2019.09_, **Second Prize**, Asia-Pacific Mathematical Modeling Contest
   - Recognized for analyzing regional economic vitality using Python, statistical methods, and machine learning.
 
