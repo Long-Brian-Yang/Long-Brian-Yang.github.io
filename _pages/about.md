@@ -21,16 +21,26 @@ redirect_from:
 
 My research interests include computational chemistry, materials science, and machine learning. Specifically, I focus on accelerating molecular dynamics simulations using neural network potentials (NNPs) and exploring novel materials for energy applications. I am passionate about leveraging machine learning to solve complex problems in materials discovery and optimization. My academic journey has been enriched by hands-on experience in research projects that bridge advanced computational techniques with real-world applications.
 
-# 🔥 News
-
-<!-- - _2025.01_: 🎉 Participating in a JST-funded project on materials discovery at TokyoTech. -->
-
 # 📖 Education
 
 - _2024.04 - Present_, Master’s student at Tokyo Institute of Technology (TokyoTech), specializing in Computer Science and Energy.
   - Research focuses on molecular dynamics simulations, neural network potentials, and materials discovery.
 - _2018.09 - 2022.06_, Bachelor of Engineering in Data Science, China University of Petroleum.
   - Awarded University First-Class Scholarship for outstanding academic performance.
+
+# 🔥 News
+
+<!-- - _2025.01_: 🎉 Participating in a JST-funded project on materials discovery at TokyoTech. -->
+
+# 📝 Publications
+
+<!-- *(If you have no publications yet, this section can remain empty or include ongoing work. Example below:)*
+- *Under Review*: "Accelerating Molecular Dynamics Simulations with Neural Network Potentials," submitted to *Computational Materials Science*.   -->
+
+# 💬 Workshop
+
+<!-- *(If you have given talks or lectures, list them here. Example below:)*
+- _2024.12_, "Neural Network Potentials in Material Discovery," invited talk at Tokyo Institute of Technology Research Forum. -->
 
 # 🔬 Research Experience
 
@@ -93,13 +103,4 @@ My research interests include computational chemistry, materials science, and ma
 - **English**: Fluent
 - **Japanese**: Business-level
 - **Chinese**: Native
-
-# 📝 Publications
-
-<!-- *(If you have no publications yet, this section can remain empty or include ongoing work. Example below:)*
-- *Under Review*: "Accelerating Molecular Dynamics Simulations with Neural Network Potentials," submitted to *Computational Materials Science*.   -->
-
-# 💬 Workshop
-
-<!-- *(If you have given talks or lectures, list them here. Example below:)*
-- _2024.12_, "Neural Network Potentials in Material Discovery," invited talk at Tokyo Institute of Technology Research Forum. -->
+-
