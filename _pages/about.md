@@ -17,46 +17,89 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 🖋 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+My research interests include computational chemistry, materials science, and machine learning. Specifically, I focus on accelerating molecular dynamics simulations using neural network potentials (NNPs) and exploring novel materials for energy applications. I am passionate about leveraging machine learning to solve complex problems in materials discovery and optimization. My academic journey has been enriched by hands-on experience in research projects that bridge advanced computational techniques with real-world applications.
 
 # 🔥 News
 
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- - _2025.01_: 🎉 Participating in a JST-funded project on materials discovery at TokyoTech. -->
 
-# 📝 Publications
+# 📖 Education
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-# 🎖 Honors and Awards
-
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-# 📖 Educations
-
+- _2024.04 - Present_, Master’s student at Tokyo Institute of Technology (TokyoTech), specializing in Computer Science and Energy.
+  - Research focuses on molecular dynamics simulations, neural network potentials, and materials discovery.
 - _2018.09 - 2022.06_, Bachelor of Engineering in Data Science, China University of Petroleum.
-- _2024.04 - Present_, Master’s student at Institute of Science Tokyo (Tokyo Institute of Technology), specializing in Computer Science and Energy. Research focuses on molecular dynamics simulations and neural network potentials for material discovery.
+  - Awarded University First-Class Scholarship for outstanding academic performance.
 
-# 💬 Invited Talks
+# 🔬 Research Experience
 
-<!-- - _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/) -->
+- _2024.05 - Present_, **Research Assistant**, Tokyo Institute of Technology
+  <!-- - Working under Professor Ishikawa's guidance as part of a JST-funded project on material discovery.  -->
+
+  - Working under Professor Ishikawa's guidance on material discovery.
+  - Running molecular dynamics simulations to analyze diffusion behavior in advanced materials.
+  - Developing and fine-tuning neural network potentials (NNPs) for accurate property predictions.
+  - Collaborating with team members on computational chemistry studies and preparing technical reports.
+
+- _2021.12 - 2022.04_, **Undergraduate Researcher**, China University of Petroleum
+  - Conducted a research project using machine learning techniques to analyze energy efficiency datasets.
+  - Preprocessed and visualized experimental data for predictive modeling.
+  - Built a prototype system for energy factor analysis and presented findings at the university symposium.
 
 # 💻 Internships
 
-- _2024.09 - Present_, [Fujitsu](https://www.fujitsu.com/), Japan. Participating in research projects related to molecular dynamics simulations and material discovery, with a focus on leveraging neural network potentials for accelerating simulations.
+- _2024.09 - Present_, [Fujitsu](https://www.fujitsu.com/), Japan
+
+  - Participating in research projects on molecular dynamics simulations and material discovery.
+  - Leveraging neural network potentials to accelerate simulations and conducting computational analyses.
+
+- _2024.07 - 2024.08_, [Rakuten](https://www.rakuten.com/), Japan
+  - Contributed to the development of a disaster volunteer web application during a summer internship.
+  - Developed backend functionality using Python (FastAPI) and managed SQLite databases.
+  - Integrated APIs to enable communication between government, volunteers, and hotels.
+  - Led database design discussions and collaborated effectively in a cross-cultural team environment.
+
+# 🎖 Honors and Awards
+
+- _2024.11_, **Fujitsu Research Internship Certification**, successfully achieved certification for outstanding performance in the internship program.
+- _2024.05 - Present_, **Research Assistant**, Tokyo Institute of Technology
+  - Contributing to a JST-funded project on molecular dynamics simulations and neural network potentials.
+- _2021.10_, **University First-Class Scholarship**, awarded for outstanding academic performance during undergraduate studies at China University of Petroleum.
+- _2019.09_, **Second Prize**, Asia-Pacific Mathematical Modeling Contest
+  - Recognized for analyzing regional economic vitality using Python, statistical methods, and machine learning.
+
+# 🛠 Skills
+
+### **Programming Languages**
+
+- Python, Go, Java, React, C, SQL, HTML, CSS, JavaScript
+
+### **Tools and Software**
+
+- **Simulation and Computational Tools**: VASP, ASE, LAMMPS, VESTA
+- **Development Tools**: FastAPI, Flask, Django, Git, GitHub, Docker, VS Code, Jupyter Notebook, LaTeX, Anaconda
+- **Database Management**: SQLite, MySQL
+- **Machine Learning and Data Analysis**: Pytorch, scikit-learn, Matplotlib, Excel
+
+### **Research Skills**
+
+- Molecular dynamics simulations, neural network potentials, Density Functional Theory (DFT) calculations
+- Phase stability and energy calculations, high-throughput materials screening
+- Machine learning models for materials discovery, statistical analysis, regression modeling
+
+### **Languages**
+
+- **English**: Fluent
+- **Japanese**: Business-level
+- **Chinese**: Native
+
+# 📝 Publications
+
+<!-- *(If you have no publications yet, this section can remain empty or include ongoing work. Example below:)*
+- *Under Review*: "Accelerating Molecular Dynamics Simulations with Neural Network Potentials," submitted to *Computational Materials Science*.   -->
+
+# 💬 Workshop
+
+<!-- *(If you have given talks or lectures, list them here. Example below:)*
+- _2024.12_, "Neural Network Potentials in Material Discovery," invited talk at Tokyo Institute of Technology Research Forum. -->
