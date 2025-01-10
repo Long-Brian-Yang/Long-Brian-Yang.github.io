@@ -12,12 +12,12 @@ repository: "long-brian-yang.github.io"
 google_scholar_stats_use_cdn: true
 
 # google analytics
-google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
+#google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification: # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification: # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+#google_site_verification: # get google_site_verification from https://search.google.com/search-console/about
+#bing_site_verification: # get bing_site_verification from https://www.bing.com/webmasters/about
+#baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
@@ -29,7 +29,7 @@ author:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email: "longyang2000110m@gmail.com"
-  researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
+  #researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
   codepen:
@@ -41,14 +41,14 @@ author:
   google_plus:
   keybase:
   instagram:
-  impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  #impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin: "https://www.linkedin.com/in/long-yang-327292289/"
-  dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid: # e.g., "https://orcid.org/xxxx"
+  #dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  #orcid: # e.g., "https://orcid.org/xxxx"
   pinterest:
   soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
+  #stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
   twitter:
@@ -131,7 +131,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Tokyo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
@@ -141,12 +141,12 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+# whitelist:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
 
 # HTML Compression
 # - http://jch.penibelst.de/
