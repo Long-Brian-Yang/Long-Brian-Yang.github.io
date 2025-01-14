@@ -23,10 +23,12 @@ My research interests include computational chemistry, materials science, and ma
 
 # 📖 Education
 
-- _2024.04 - Present_, Master’s student at Tokyo Institute of Technology (TokyoTech), specializing in Computer Science and Energy.
-  - Research focuses on molecular dynamics simulations, neural network potentials, and materials discovery.
-- _2018.09 - 2022.06_, Bachelor of Engineering in Data Science, China University of Petroleum.
-  - Awarded University First-Class Scholarship for outstanding academic performance.
+- _2024.04 - Present_, **Master of Science in Computer Science and Energy**
+  Tokyo Institute of Technology (TokyoTech), Tokyo, Japan
+  - **Research Keywords**: Molecular dynamics simulations, neural network potentials (NNPs), materials discovery, proton diffusion, machine learning.
+- _2018.09 - 2022.06_, **Bachelor of Engineering in Data Science**
+  China University of Petroleum, Beijing, China
+  - **Research Keywords**: lung nodule segmentation, medical imaging, deep learning, big data analysis, statistical modeling.
 
 # 🔥 News
 
