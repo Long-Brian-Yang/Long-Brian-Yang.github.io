@@ -54,6 +54,12 @@ My research interests include computational chemistry, materials science, and ma
   - Developing and fine-tuning neural network potentials (NNPs) for accurate property predictions.
   - Collaborating with team members on computational chemistry studies and preparing technical reports.
 
+- \_2024.09 - 2024.09\_, Research Collaboration with Fujitsu Research Computing Lab
+
+  - Participated in joint research projects focusing on molecular dynamics simulations for material discovery.
+  - Worked on optimizing neural network potentials for simulation efficiency.
+  - Supported the development of computational models for advanced material properties.
+
 - _2021.12 - 2022.04_, **Undergraduate Researcher**, China University of Petroleum
   - Conducted a research project using machine learning techniques to analyze energy efficiency datasets.
   - Preprocessed and visualized experimental data for predictive modeling.
@@ -61,13 +67,13 @@ My research interests include computational chemistry, materials science, and ma
 
 # 💻 Internships
 
-- _2024.09 - Present_, [Fujitsu](https://www.fujitsu.com/), Japan
+- _2024.09 - 2024.09_, [Fujitsu](https://www.fujitsu.com/), Japan
   **Department:** Computing Research Institute
 
   - Participating in research projects on molecular dynamics simulations and material discovery.
   - Leveraging neural network potentials to accelerate simulations and conducting computational analyses.
 
-- _2024.07 - 2024.08_, [Rakuten](https://www.rakuten.com/), Japan
+- _2024.08 - 2024.08_, [Rakuten](https://www.rakuten.com/), Japan
   **Department:** Communications & Marketing (CM) Division
   - Contributed to the development of a disaster volunteer web application during a summer internship.
   - Developed backend functionality using Python (FastAPI) and managed SQLite databases.
