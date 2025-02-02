@@ -54,7 +54,7 @@ My research interests include computational chemistry, materials science, and ma
   - Developing and fine-tuning neural network potentials (NNPs) for accurate property predictions.
   - Collaborating with team members on computational chemistry studies and preparing technical reports.
 
-- \_2024.09 - 2024.09\_, Research Collaboration with Fujitsu Research Computing Lab
+- _2024.09 - 2024.09_, Research Collaboration with Fujitsu Research Computing Lab
 
   - Participated in joint research projects focusing on molecular dynamics simulations for material discovery.
   - Worked on optimizing neural network potentials for simulation efficiency.
@@ -70,8 +70,10 @@ My research interests include computational chemistry, materials science, and ma
 - _2024.09 - 2024.09_, [Fujitsu](https://www.fujitsu.com/), Japan
   **Department:** Computing Research Institute
 
-  - Participating in research projects on molecular dynamics simulations and material discovery.
-  - Leveraging neural network potentials to accelerate simulations and conducting computational analyses.
+  - Conducted above hull energy calculations to assess the thermodynamic stability of materials under various conditions.
+  - Analyzed phase stability and formation energy to evaluate candidate materials for advanced applications.
+  - Implemented computational methods for high-throughput screening of material stability in different environments.
+  - Collaborated with researchers to refine computational workflows and machine learning models for predicting material behaviors.
 
 - _2024.08 - 2024.08_, [Rakuten](https://www.rakuten.com/), Japan
   **Department:** Communications & Marketing (CM) Division
