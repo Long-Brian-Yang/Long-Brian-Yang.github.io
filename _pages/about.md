@@ -34,15 +34,27 @@ My research interests include computational chemistry, materials science, and ma
 
 <!-- - _2025.01_: 🎉 Participating in a JST-funded project on materials discovery at TokyoTech. -->
 
+- _2025.03_: 🎤 **Presentation at SCEJ 90th Annual Meeting**
+  - I will present my research on **"Molecular Dynamics Simulation of Proton Diffusion in Perovskite Oxides Using Neural Network Potentials"** at the **Society of Chemical Engineers, Japan (SCEJ) 90th Annual Meeting**, held at **Katsushika Campus, Tokyo University of Science**, on **March 13, 2025**.
+  - [Conference Program](https://www4.scej.org/meeting/90a/prog/en_progsearch.html?Re=Yang%20Long)
+
 # 📝 Publications
 
 <!-- *(If you have no publications yet, this section can remain empty or include ongoing work. Example below:)*
 - *Under Review*: "Accelerating Molecular Dynamics Simulations with Neural Network Potentials," submitted to *Computational Materials Science*.   -->
 
-# 💬 Workshop
+# 💬 Conference and Workshop
 
 <!-- *(If you have given talks or lectures, list them here. Example below:)*
 - _2024.12_, "Neural Network Potentials in Material Discovery," invited talk at Tokyo Institute of Technology Research Forum. -->
+
+- _2025.03.13_, **The Society of Chemical Engineers, Japan (SCEJ) 90th Annual Meeting**  
+  **Title:** Molecular Dynamics Simulation of Proton Diffusion in Perovskite Oxides Using Neural Network Potentials  
+  **Authors:** _(Stu)_ Yang Long, _(Reg)_ Ishikawa Atsushi  
+  **Keywords:** Proton conduction, Molecular dynamics, Computer simulation  
+  **Session:** Day 2, 9:20–11:20, Paper ID: PB201  
+  **Location:** Katsushika Campus, Tokyo University of Science  
+  [Conference Program](https://www4.scej.org/meeting/90a/prog/en_progsearch.html?Re=Yang%20Long)
 
 # 🔬 Research Experience
 
