@@ -34,9 +34,9 @@ My research interests include computational chemistry, materials science, and ma
 
 <!-- - _2025.01_: 🎉 Participating in a JST-funded project on materials discovery at TokyoTech. -->
 
-- _2025.03_: 🎤 **Presentation at SCEJ 90th Annual Meeting**
+<!-- - _2025.03_: 🎤 **Presentation at SCEJ 90th Annual Meeting**
   - I will present my research on **"Molecular Dynamics Simulation of Proton Diffusion in Perovskite Oxides Using Neural Network Potentials"** at the **Society of Chemical Engineers, Japan (SCEJ) 90th Annual Meeting**, held at **Katsushika Campus, Tokyo University of Science**, on **March 13, 2025**.
-  - [Conference Program](https://www4.scej.org/meeting/90a/prog/en_progsearch.html?Re=Yang%20Long)
+  - [Conference Program](https://www4.scej.org/meeting/90a/prog/en_progsearch.html?Re=Yang%20Long) -->
 
 # 📝 Publications
 
