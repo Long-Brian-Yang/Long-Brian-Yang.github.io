@@ -79,7 +79,7 @@ My research interests include computational chemistry, materials science, and ma
 
 # 💻 Internships
 
-- _2024.09 - 2024.09_, [Fujitsu](https://www.fujitsu.com/), Japan
+- _2024.09 - Present_, [Fujitsu](https://www.fujitsu.com/), Japan
   **Department:** Computing Research Institute
 
   - Conducted above hull energy calculations to assess the thermodynamic stability of materials under various conditions.
